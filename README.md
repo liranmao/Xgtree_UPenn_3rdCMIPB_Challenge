@@ -49,7 +49,10 @@ Training approach:
 
 ## Contact
 Liran Mao, Liran.Mao@Pennmedicine.upenn.edu, University of Pennsylvania
+
 Lexi Li, lexi.li@pennmedicine.upenn.edu, University of Pennsylvania
+
 Yuhao Tan: Yuhao.Tan@pennmedicine.upenn.edu, University of Pennsylvania
+
 Tram Anh Nguyen: tram.nguyen1@pennmedicine.upenn.edu, University of Pennsylvania
 
